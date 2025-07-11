@@ -1,0 +1,76 @@
+[project]
+name = "alligator-alcatraz"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Your Name",email = "you@example.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django (>=5.2.4,<6.0.0)",
+    "pytest (>=8.4.1,<9.0.0)",
+    "pytest-django (>=4.11.1,<5.0.0)",
+    "black (>=25.1.0,<26.0.0)",
+    "isort (>=6.0.1,<7.0.0)"
+]
+
+[tool.pytest.ini_options]
+DJANGO_SETTINGS_MODULE = "alligator_alcatraz.settings"
+addopts = "-ra -vv"
+python_functions = [
+    'test_*',
+    '*_test',
+    'check_*',
+    '*_check',
+    'example_*',
+    'suite_*',
+    '*_example',
+    '*_suite',
+]
+python_classes = [
+    'Suite*',
+    '*Suite',
+    'Test*',
+    '*Test',
+    'Check*',
+    '*Check',
+    'Example*',
+    '*Example',
+
+]
+python_files = [
+    'test_*.py',
+    '*_test.py',
+    'check_*.py',
+    '*_check.py',
+    'example_*.py',
+    'suite_*.py',
+    '*_example.py',
+    '*_suite.py',
+]
+[tool.isort]
+profile = "black"
+skip_gitignore = true
+# verbose=true
+virtual_env = "poetry"
+honor_noqa = true
+multi_line_output = 5
+
+[tool.black]
+line-length = 100
+[tool.yapf]
+based_on_style = "pep8"
+indent_width = 4
+column_limit = 80
+spaces_before_comment = 2
+split_before_expression_after_opening_paren = true
+split_before_logical_operator = true
+
+[tool.mypy]
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

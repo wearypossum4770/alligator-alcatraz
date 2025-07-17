@@ -1,3 +1,6 @@
 from django.shortcuts import render
 
-# Create your views here.
+
+def list_all_posts(request):
+    context = {}
+    return render(request, "", context=context)

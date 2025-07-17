@@ -1,0 +1,27 @@
+[
+                {
+                    "translated": "",
+                    "name": "Full Time",
+                    "value": "full_time",
+                    
+                    "count": 1010
+                },
+                {
+                    "translated": "",
+                    "name": "Intern",
+                    "value": "intern",
+                    "count": 6
+                },
+                {
+                    "translated": "",
+                    "name": "Part Time",
+                    "value": "part_time",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "Temporary",
+                    "value": "temporary",
+                    "count": 4
+                }
+]

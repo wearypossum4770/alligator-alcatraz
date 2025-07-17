@@ -15,7 +15,11 @@ Class-based views
 from django.contrib import admin
 from django.urls import include, path
 
+from users.views import main
+
 urlpatterns = (
     path("polls/", include("polls.urls")),
+    path("users/", include("users.urls")),
+    path("", main, name="main"),
     path("admin/", admin.site.urls),
 )

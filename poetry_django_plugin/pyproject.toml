@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "poetry-django-plugin"
+version = "0.1.0"
+description = "A Poetry plugin that automatically activates the Poetry environment when Django's manage.py is invoked"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "poetry_django_plugin"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+poetry = "^1.7.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.plugins."poetry.plugin"]
+django = "poetry_django_plugin.plugin:DjangoPlugin"

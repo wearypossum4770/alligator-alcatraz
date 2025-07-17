@@ -41,6 +41,7 @@ DJANGO_APPS = (
 PROJECT_APPS = (
     "users.apps.UsersConfig",
     "polls.apps.PollsConfig",
+    "plans.apps.PlansConfig",
 )
 
 INSTALLED_APPS = DJANGO_APPS + PROJECT_APPS
@@ -61,7 +62,9 @@ ROOT_URLCONF = "alligator_alcatraz.urls"
 TEMPLATES = [
     {
         "BACKEND": "django.template.backends.django.DjangoTemplates",
-        "DIRS": [],
+        "DIRS": [
+            BASE_DIR / "templates",
+        ],
         "APP_DIRS": True,
         "OPTIONS": {
             "context_processors": [

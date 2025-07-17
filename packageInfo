@@ -1,0 +1,2 @@
+base = {workspace = devsmif_alligator_alcatraz; };
+packages = { };

@@ -1,0 +1,1902 @@
+ [
+                {
+                    "translated": "",
+                    "name": "ALACHUA",
+                    "count": 39
+                },
+                {
+                    "translated": "",
+                    "name": "ALLIGATOR POINT",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "ALTAMONTE SPRINGS",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "ALTHA",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "AMELIA ISLAND",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "ANAHEIM",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "APALACHICOLA",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "APOLLO BEACH",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "APOPKA",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "ARCADIA",
+                    "count": 31
+                },
+                {
+                    "translated": "",
+                    "name": "ARCHER",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "ATLANTA",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "AUBURNDALE",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "AUCILLA",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "AVON PARK",
+                    "count": 32
+                },
+                {
+                    "translated": "",
+                    "name": "BAKER",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "BARTOW",
+                    "count": 34
+                },
+                {
+                    "translated": "",
+                    "name": "BAY PINES",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "BELL",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "BELLE GLADE",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "BELLEVIEW",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "BIG PINE KEY",
+                    "count": 27
+                },
+                {
+                    "translated": "",
+                    "name": "BLOUNTSTOWN",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "BOCA GRANDE",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "BOCA RATON",
+                    "count": 26
+                },
+                {
+                    "translated": "",
+                    "name": "BONIFAY",
+                    "count": 27
+                },
+                {
+                    "translated": "",
+                    "name": "BONITA SPRINGS",
+                    "count": 23
+                },
+                {
+                    "translated": "",
+                    "name": "BOWLING GREEN",
+                    "count": 27
+                },
+                {
+                    "translated": "",
+                    "name": "BOYNTON BEACH",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "BRADENTON",
+                    "count": 40
+                },
+                {
+                    "translated": "",
+                    "name": "BRANDON",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "BRANFORD",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "BRISTOL",
+                    "count": 23
+                },
+                {
+                    "translated": "",
+                    "name": "BRONSON",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "BROOKSVILLE",
+                    "count": 29
+                },
+                {
+                    "translated": "",
+                    "name": "BRYCEVILLE",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "BUNNELL",
+                    "count": 27
+                },
+                {
+                    "translated": "",
+                    "name": "BUSHNELL",
+                    "count": 27
+                },
+                {
+                    "translated": "",
+                    "name": "CALLAHAN",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "CALLAWAY",
+                    "count": 23
+                },
+                {
+                    "translated": "",
+                    "name": "CAMBELTON",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "CANAL POINT",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "CANTONMENT",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "CAPE CORAL",
+                    "count": 30
+                },
+                {
+                    "translated": "",
+                    "name": "CAPE HAZE",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "CAROL CITY",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "CARRABELLE",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "CASSELBERRY",
+                    "count": 22
+                },
+                {
+                    "translated": "",
+                    "name": "CEDAR KEY",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "CENTURY",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "CHATTAHOOCHEE",
+                    "count": 30
+                },
+                {
+                    "translated": "",
+                    "name": "CHIEFLAND",
+                    "count": 26
+                },
+                {
+                    "translated": "",
+                    "name": "CHIPLEY",
+                    "count": 28
+                },
+                {
+                    "translated": "",
+                    "name": "CHRISTMAS",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "CHULUOTA",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "CITRA",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "CLARKSVILLE",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "CLEARWATER",
+                    "count": 46
+                },
+                {
+                    "translated": "",
+                    "name": "CLERMONT",
+                    "count": 26
+                },
+                {
+                    "translated": "",
+                    "name": "CLEWISTON",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "COCOA",
+                    "count": 22
+                },
+                {
+                    "translated": "",
+                    "name": "COCONUT CREEK",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "COCONUT GROVE",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "COPELAND",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "CORAL GABLES",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "CORAL SPRINGS",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "COTTONDALE",
+                    "count": 23
+                },
+                {
+                    "translated": "",
+                    "name": "CRAWFORDVILLE",
+                    "count": 32
+                },
+                {
+                    "translated": "",
+                    "name": "CRESTVIEW",
+                    "count": 35
+                },
+                {
+                    "translated": "",
+                    "name": "CROSS CITY",
+                    "count": 23
+                },
+                {
+                    "translated": "",
+                    "name": "CRYSTAL RIVER",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "DADE CITY",
+                    "count": 22
+                },
+                {
+                    "translated": "",
+                    "name": "DANIA BEACH",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "DAVIE",
+                    "count": 26
+                },
+                {
+                    "translated": "",
+                    "name": "DAYTONA BEACH",
+                    "count": 54
+                },
+                {
+                    "translated": "",
+                    "name": "DE LEON SPRINGS",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "DEERFIELD BEACH",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "DEFUNIAK SPRINGS",
+                    "count": 26
+                },
+                {
+                    "translated": "",
+                    "name": "DELAND",
+                    "count": 32
+                },
+                {
+                    "translated": "",
+                    "name": "DELRAY BEACH",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "DESTIN",
+                    "count": 28
+                },
+                {
+                    "translated": "",
+                    "name": "DORAL",
+                    "count": 31
+                },
+                {
+                    "translated": "",
+                    "name": "DOVER",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "DUNDEE",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "DUNEDIN",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "DUNNELLON",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "EAST PALATKA",
+                    "count": 25
+                },
+                {
+                    "translated": "",
+                    "name": "EASTPOINT",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "EBRO",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "EDGEWATER",
+                    "count": 23
+                },
+                {
+                    "translated": "",
+                    "name": "EGLIN AFB",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "ELLENTON",
+                    "count": 23
+                },
+                {
+                    "translated": "",
+                    "name": "ENGLEWOOD",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "ESTERO",
+                    "count": 23
+                },
+                {
+                    "translated": "",
+                    "name": "EUSTIS",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "FANNING SPRINGS",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "FELDA",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "FELLSMERE",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "FERN PARK",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "FERNANDINA BEACH",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "FLAGLER BEACH",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "FLEMING ISLAND",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "FLORAHOME",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "FLORIDA CITY",
+                    "count": 25
+                },
+                {
+                    "translated": "",
+                    "name": "FORT LAUDERDALE",
+                    "count": 35
+                },
+                {
+                    "translated": "",
+                    "name": "FORT MEADE",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "FORT MYERS",
+                    "count": 46
+                },
+                {
+                    "translated": "",
+                    "name": "FORT PIERCE",
+                    "count": 39
+                },
+                {
+                    "translated": "",
+                    "name": "FORT WALTON BEACH",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "FORT WHITE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "FROSTPROOF",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "FRUITLAND PARK",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "FT LAUDERDALE",
+                    "count": 27
+                },
+                {
+                    "translated": "",
+                    "name": "FT MYERS",
+                    "count": 29
+                },
+                {
+                    "translated": "",
+                    "name": "FT MYERS BEACH",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "FT WALTON BCH",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "GAINESVILLE",
+                    "count": 63
+                },
+                {
+                    "translated": "",
+                    "name": "GENEVA",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "GIBSONTON",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "GLEN ST MARY",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "GOULDS",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "GRACEVILLE",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "GRAND RIDGE",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "GREEN COVE SPRINGS",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "GREENACRES",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "GRETNA",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "GROVELAND",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "GULF BREEZE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "GULF STREAM",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "GULFPORT",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "HAINES CITY",
+                    "count": 16
+                },
+                {
+                    "translated": "",
+                    "name": "HALLANDALE BEACH",
+                    "count": 15
+                },
+                {
+                    "translated": "",
+                    "name": "HASTINGS",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "HAVANA",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "HAWTHORNE",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "HEATHROW",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "HERNANDO",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "HIALEAH",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "HIALEAH GARDENS",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "HIGH SPRINGS",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "HILLIARD",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "HILLSIDE",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "HOBE SOUND",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "HOLIDAY",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "HOLLISTER",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "HOLLY HILL",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "HOLLYWOOD",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "HOLT",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "HOMESTEAD",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "HOMOSASSA",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "HOSFORD",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "HOUSTON",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "HUDSON",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "IMMOKALEE",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "INDIANTOWN",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "INVERNESS",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "IRVING",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "ISLAMORADA",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "JACKSONVILLE",
+                    "count": 55
+                },
+                {
+                    "translated": "",
+                    "name": "JASPER",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "JAY",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "JENNINGS",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "JENSEN BEACH",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "JONESVILLE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "JUPITER",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "Jacksonville",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "KENANSVILLE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "KEY BISCAYNE",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "KEY LARGO",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "KEY WEST",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "KEYSTONE HEIGHTS",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "KISSIMMEE",
+                    "count": 25
+                },
+                {
+                    "translated": "",
+                    "name": "LA CROSSE",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "LABELLE",
+                    "count": 16
+                },
+                {
+                    "translated": "",
+                    "name": "LADY LAKE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LAKE ALFRED",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LAKE BUTLER",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "LAKE CITY",
+                    "count": 35
+                },
+                {
+                    "translated": "",
+                    "name": "LAKE PANASOFFKEE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LAKE PLACID",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LAKE WALES",
+                    "count": 15
+                },
+                {
+                    "translated": "",
+                    "name": "LAKE WORTH",
+                    "count": 18
+                },
+                {
+                    "translated": "",
+                    "name": "LAKELAND",
+                    "count": 26
+                },
+                {
+                    "translated": "",
+                    "name": "LAKEWOOD RANCH",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "LAND O\u0027 LAKES",
+                    "count": 18
+                },
+                {
+                    "translated": "",
+                    "name": "LANTANA",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "LARGO",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "LAUDERDALE LAKES",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "LAUDERHILL",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LAUREL HILL",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LAWTEY",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "LECANTO",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "LEE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LEESBURG",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "LEHIGH ACRES",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LITHIA",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LIVE OAK",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "LONG KEY",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LONGWOOD",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LORIDA",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "LOXAHATCHEE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "MACCLENNY",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "MADISON",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "MAITLAND",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "MALABAR",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "MALONE",
+                    "count": 18
+                },
+                {
+                    "translated": "",
+                    "name": "MARATHON",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "MARGATE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "MARIANNA",
+                    "count": 32
+                },
+                {
+                    "translated": "",
+                    "name": "MAYO",
+                    "count": 15
+                },
+                {
+                    "translated": "",
+                    "name": "MELBOURNE",
+                    "count": 22
+                },
+                {
+                    "translated": "",
+                    "name": "MELBOURNE BEACH",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "MERRITT ISLAND",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "MIAMI",
+                    "count": 65
+                },
+                {
+                    "translated": "",
+                    "name": "MIAMI BEACH",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "MIAMI GARDENS",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "MIAMI LAKES",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "MICANOPY",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "MIDDLEBURG",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "MIDWAY",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "MILTON",
+                    "count": 22
+                },
+                {
+                    "translated": "",
+                    "name": "MIMS",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "MONTICELLO",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "MOORE HAVEN",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "MOUNT DORA",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "MURDOCK",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "MYAKKA CITY",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "NAPLES",
+                    "count": 31
+                },
+                {
+                    "translated": "",
+                    "name": "NARANJA",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "NAVARRE",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "NEW PORT RICHEY",
+                    "count": 22
+                },
+                {
+                    "translated": "",
+                    "name": "NEW SMYRNA BEACH",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "NEWBERRY",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "NICEVILLE",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "NORTH FORT MYERS",
+                    "count": 15
+                },
+                {
+                    "translated": "",
+                    "name": "NORTH MIAMI",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "NORTH MIAMI BEACH",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "NORTH PALM BEACH",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "NORTH PORT",
+                    "count": 25
+                },
+                {
+                    "translated": "",
+                    "name": "OCALA",
+                    "count": 46
+                },
+                {
+                    "translated": "",
+                    "name": "OCEAN RIDGE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "OCOEE",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "OKEECHOBEE",
+                    "count": 16
+                },
+                {
+                    "translated": "",
+                    "name": "OLD TOWN",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "OLUSTEE",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "OPA LOCKA",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "ORANGE CITY",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "ORANGE LAKE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "ORANGE PARK",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "ORLANDO",
+                    "count": 60
+                },
+                {
+                    "translated": "",
+                    "name": "ORMOND BEACH",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "OSPREY",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "OSTEEN",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "OVIEDO",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PACE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PAHOKEE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PAISLEY",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PALATKA",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "PALM BAY",
+                    "count": 18
+                },
+                {
+                    "translated": "",
+                    "name": "PALM BEACH GARDENS",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "PALM CITY",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PALM COAST",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "PALMDALE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PALMETTO",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "PANAMA CITY",
+                    "count": 44
+                },
+                {
+                    "translated": "",
+                    "name": "PANAMA CITY BEACH",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "PARRISH",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "PEMBROKE PINES",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "PENSACOLA",
+                    "count": 44
+                },
+                {
+                    "translated": "",
+                    "name": "PERRY",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "PIERSON",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PINELLAS PARK",
+                    "count": 16
+                },
+                {
+                    "translated": "",
+                    "name": "PITTSBURGH",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "PLANT CITY",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "PLANTATION",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "POLK CITY",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "POMPANO BEACH",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PONCE DE LEON",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PONTE VEDRA",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "PONTE VEDRA BEACH",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "PORT CHARLOTTE",
+                    "count": 16
+                },
+                {
+                    "translated": "",
+                    "name": "PORT EVERGLADES",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PORT ORANGE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PORT RICHEY",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "PORT SAINT LUCIE",
+                    "count": 18
+                },
+                {
+                    "translated": "",
+                    "name": "PORT ST JOE",
+                    "count": 18
+                },
+                {
+                    "translated": "",
+                    "name": "PORT ST. LUCIE",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "PUNTA GORDA",
+                    "count": 32
+                },
+                {
+                    "translated": "",
+                    "name": "QUINCY",
+                    "count": 16
+                },
+                {
+                    "translated": "",
+                    "name": "RAIFORD",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "REDDICK",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "RIVERVIEW",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "RIVIERA BEACH",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "ROCKLEDGE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "ROYAL PALM BEACH",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "RUSKIN",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "Remote / Telework",
+                    "count": 8
+                },
+                {
+                    "translated": "",
+                    "name": "SAINT AUGUSTINE",
+                    "count": 18
+                },
+                {
+                    "translated": "",
+                    "name": "SAINT CLOUD",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "SAINT MARKS",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "SAINT PETERSBURG",
+                    "count": 15
+                },
+                {
+                    "translated": "",
+                    "name": "SAN ANTONIO",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "SANDERSON",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "SANFORD",
+                    "count": 22
+                },
+                {
+                    "translated": "",
+                    "name": "SANTA ROSA BEACH",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "SARASOTA",
+                    "count": 41
+                },
+                {
+                    "translated": "",
+                    "name": "SEBASTIAN",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "SEBRING",
+                    "count": 23
+                },
+                {
+                    "translated": "",
+                    "name": "SEFFNER",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "SEVILLE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "SHALIMAR",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "SILVER SPRINGS",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "SNEADS",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "SOPCHOPPY",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "SORRENTO",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "SOUTH BAY",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "SOUTH DAYTONA",
+                    "count": 15
+                },
+                {
+                    "translated": "",
+                    "name": "SOUTH MIAMI",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "SOUTHPORT",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "SPRING HILL",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "ST AUGUSTINE",
+                    "count": 37
+                },
+                {
+                    "translated": "",
+                    "name": "ST GEORGE ISL",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "ST PETERSBURG",
+                    "count": 27
+                },
+                {
+                    "translated": "",
+                    "name": "ST. CLOUD",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "ST. PETERSBURG",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "STARKE",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "STUART",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "SUGARLOAF KEY",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "SUMMERFIELD",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "SUNRISE",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "SURFSIDE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "TALLAHASSEE",
+                    "count": 287
+                },
+                {
+                    "translated": "",
+                    "name": "TAMARAC",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "TAMPA",
+                    "count": 64
+                },
+                {
+                    "translated": "",
+                    "name": "TARPON SPRINGS",
+                    "count": 15
+                },
+                {
+                    "translated": "",
+                    "name": "TAVARES",
+                    "count": 18
+                },
+                {
+                    "translated": "",
+                    "name": "TAVERNIER",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "TEMPLE TERRACE",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "TEQUESTA",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "TERRA CEIA",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "THE VILLAGES",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "THONOTOSASSA",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "TITUSVILLE",
+                    "count": 21
+                },
+                {
+                    "translated": "",
+                    "name": "TRENTON",
+                    "count": 18
+                },
+                {
+                    "translated": "",
+                    "name": "UMATILLA",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "VALRICO",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "VENICE",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "VENUS",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "VERNON",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "VERO BEACH",
+                    "count": 18
+                },
+                {
+                    "translated": "",
+                    "name": "VIERA",
+                    "count": 27
+                },
+                {
+                    "translated": "",
+                    "name": "WAKULLA SPRINGS",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "WALDO",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "WASHINGTON",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "WAUCHULA",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "WEBSTER",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "WEEKI WACHEE",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "WELAKA",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "WELLBORN",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "WELLINGTON",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "WESLEY CHAPEL",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "WEST PALM BEACH",
+                    "count": 45
+                },
+                {
+                    "translated": "",
+                    "name": "WESTON",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "WEWAHITCHKA",
+                    "count": 16
+                },
+                {
+                    "translated": "",
+                    "name": "WEXFORD",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "WHITE SPRINGS",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "WILDWOOD",
+                    "count": 20
+                },
+                {
+                    "translated": "",
+                    "name": "WILLISTON",
+                    "count": 12
+                },
+                {
+                    "translated": "",
+                    "name": "WILTON MANORS",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "WIMAUMA",
+                    "count": 13
+                },
+                {
+                    "translated": "",
+                    "name": "WINTER GARDEN",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "WINTER HAVEN",
+                    "count": 24
+                },
+                {
+                    "translated": "",
+                    "name": "WINTER PARK",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "WINTER SPRINGS",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "WOODLAND PARK",
+                    "count": 19
+                },
+                {
+                    "translated": "",
+                    "name": "YANKEETOWN",
+                    "count": 11
+                },
+                {
+                    "translated": "",
+                    "name": "YOUNGSTOWN",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "YULEE",
+                    "count": 14
+                },
+                {
+                    "translated": "",
+                    "name": "ZEPHYRHILLS",
+                    "count": 17
+                },
+                {
+                    "translated": "",
+                    "name": "ZOLFO SPRINGS",
+                    "count": 12
+                }
+]
